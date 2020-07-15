@@ -13,12 +13,12 @@
 		<h1>Softwayr CSS</h1>
 		<p>Welcome to Softwayr CSS!</p>
 		<hr>
-		<p class="softwayr-small">Small Test</p>
-		<p class="softwayr-normal">Normal Text</p>
-		<p class="softwayr-large">Large Text</p>
-		<p class="softwayr-xlarge">Extra Large Text</p>
-		<p class="softwayr-xxlarge">Extra Extra Large Text</p>
-		<p class="softwayr-xxxlarge">Extra Extra Extra Large Text</p>
-		<p class="softwayr-jumbo">Jumbo Text</p>
+		<p class="softwayr-small softwayr-mn softwayr-pn">Small Test</p>
+		<p class="softwayr-normal softwayr-mn softwayr-pn">Normal Text</p>
+		<p class="softwayr-large softwayr-mn softwayr-pn">Large Text</p>
+		<p class="softwayr-xlarge softwayr-mn softwayr-pn">Extra Large Text</p>
+		<p class="softwayr-xxlarge softwayr-mn softwayr-pn">Extra Extra Large Text</p>
+		<p class="softwayr-xxxlarge softwayr-mn softwayr-pn">Extra Extra Extra Large Text</p>
+		<p class="softwayr-jumbo softwayr-mn softwayr-pn">Jumbo Text</p>
 	</body>
 </html>
