@@ -28,6 +28,17 @@
 .softwayr-margin-bottom-none, .softwayr-mb-0, .softwayr-my-0, .softwayr-margin-none, .softwayr-mn { margin-bottom-width: 0px; }
 .softwayr-margin-left-none, .softwayr-ml-0, .softwayr-mx-0, .softwayr-margin-none, .softwayr-mn { margin-left-width: 0px; }
 /* End No Margin */
+
+/* Margin */
+.softwayr-margin-top, .softwayr-mt, .softwayr-my, .softwayr-margin
+{ margin-top-width: 10px; }
+.softwayr-margin-right, .softwayr-mr, .softwayr-mx, .softwayr-margin
+{ margin-right-width: 10px; }
+.softwayr-margin-bottom, .softwayr-mb, .softwayr-my, .softwayr-margin
+{ margin-bottom-width: 10px; }
+.softwayr-margin-left, .softwayr-ml, .softwayr-mx, .softwayr-margin
+{ margin-left-width: 10px; }
+/* End Margin */
 /* END MARGINS */
 
 /* PADDING */
@@ -41,4 +52,15 @@
 .softwayr-padding-left-none, .softwayr-pl-0, .softwayr-px-0, .softwayr-padding-none, .softwayr-pn
 { padding-left-width: 0px; }
 /* End No Padding */
+
+/* Padding */
+.softwayr-padding-top, .softwayr-pt, .softwayr-py, .softwayr-padding
+{ padding-top-width: 10px; }
+.softwayr-padding-right, .softwayr-pr, .softwayr-px, .softwayr-padding
+{ padding-right-width: 10px; }
+.softwayr-padding-bottom, .softwayr-pb, .softwayr-py, .softwayr-padding
+{ padding-bottom-width: 10px; }
+.softwayr-padding-left, .softwayr-pl, .softwayr-px, .softwayr-padding
+{ padding-left-width: 10px; }
+/* End Padding */
 /* END PADDING */
